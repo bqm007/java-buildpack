@@ -15,4 +15,4 @@
 
 # Configuration for the +JAVA_OPTS+ framework
 ---
-JAVA_OPTS:"-Xms64M -Xmx128M"
+JAVA_OPTS="-Xms64M -Xmx128M"
